@@ -9,12 +9,12 @@ Toggle between dark/light mode, click to track visits, and watch analytics updat
 
 ## Technologies Used
 
-- **Python / Flask** — web framework serving the app and REST endpoints
-- **Redis** — key-value store tracking visit counts and hourly analytics
-- **Nginx** — reverse proxy load balancing traffic to Flask
-- **Docker & Docker Compose** — containerizing and orchestrating all services
-- **Chart.js** — rendering the live visits chart on the frontend
-- **HTML / CSS / JavaScript** — frontend UI with dark/light mode
+- **Python / Flask** — web framework serving the app and REST endpoints.
+- **Redis** — key-value store tracking visit counts and hourly analytics.
+- **Nginx** — reverse proxy load balancing traffic to Flask.
+- **Docker & Docker Compose** — containerizing and orchestrating all services.
+- **Chart.js** — rendering the live visits chart on the frontend.
+- **HTML / CSS / JavaScript** — frontend UI with dark/light mode.
 
 ---
 
