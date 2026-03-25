@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+app/templates/
+nginx.conf
