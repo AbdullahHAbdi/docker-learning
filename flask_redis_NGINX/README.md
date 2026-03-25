@@ -1,4 +1,4 @@
-# VisiFlow Plus 🟢
+# VisiFlow Plus: Flask + Redis + NGINX 🟢
 
 A multi-container visit tracking dashboard built with Flask, Redis, and Nginx.
 Toggle between dark/light mode, click to track visits, and watch analytics update in real time.
